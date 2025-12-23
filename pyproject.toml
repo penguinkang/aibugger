@@ -7,7 +7,7 @@ name = "aibugger"
 version = "0.1.0"
 description = "AI-powered debugging tool that catches exceptions and provides fixes."
 readme = "README.md"
-authors = [{ name = "Antigravity", email = "antigravity@example.com" }]
+authors = [{ name = "Jay Kang", email = "bk.kang@me.com" }]
 license = { file = "LICENSE" }
 classifiers = [
     "Programming Language :: Python :: 3",
